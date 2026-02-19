@@ -1,4 +1,5 @@
-"""A package to do some simple arithmetic.
+"""
+A package to do some simple arithmetic.
 """
 
 
